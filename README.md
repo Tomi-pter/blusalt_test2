@@ -41,4 +41,4 @@ type=canvas&t=GwqTBYv9o8g3W95k-0
 
 ## Author
 
-- Website - [<TomiPter>](https://www.tomipter.com)
+- Website - [TomiPter](https://www.tomipter.com)
